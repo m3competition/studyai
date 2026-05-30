@@ -1,4 +1,4 @@
-# StudyAI — Guide de déploiement Vercel
+ # StudyAI — Guide de déploiement Vercel
 
 ## Structure du projet
 ```
